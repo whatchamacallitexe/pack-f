@@ -158,8 +158,8 @@ body {
     /*width: 192px;
     height: 47px;*/
 }
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;500&family=MuseoModerno:wght@600&display=swap');
+@import url('fonts-c0fbdc64da.css');
+@import url('fonts-7620d79f8a.css');
 #logout{
     display: flex;
     justify-content: center;
